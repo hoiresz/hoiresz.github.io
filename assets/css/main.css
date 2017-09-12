@@ -2500,6 +2500,11 @@
 		width: 35%;
 	}
 
+		.hidden {
+			visibility: hidden;
+			height: 0px;
+		}
+
 		#header > * {
 			-moz-flex-shrink: 0;
 			-webkit-flex-shrink: 0;
