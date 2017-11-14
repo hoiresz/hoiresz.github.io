@@ -2716,4 +2716,7 @@ body.is-mobile.landing #footer {
     .stack li i {
       font-size: 3rem; }
 
+.gif {
+  cursor: progress;
+}
 /*# sourceMappingURL=main.css.map */
